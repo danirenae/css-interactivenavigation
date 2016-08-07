@@ -1,0 +1,19 @@
+body {
+  background: lightyellow;
+}
+
+ul li{
+  display: inline-block;
+  list-style-type: none;
+}
+
+li a:hover{
+  color: goldenrod;
+  background-color: purple;
+}
+
+a:active{
+  font-size: 21px;
+}
+
+
